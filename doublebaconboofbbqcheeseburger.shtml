@@ -1,8 +1,7 @@
-<strong> WELCOME TO DOUBLE BACON BOOF BBQ CHEESE BURGER GAMES<strong><p>
 
+
+<p> <strong> WELCOME TO DOUBLE BACON BOOF BBQ CHEESE BURGER GAMES<strong></p>
 	<p><small> version 1 beta 5/17/25 <small><p>
-
-	
 
 
 
@@ -10,200 +9,121 @@
 
 <!-- GAME SITE 1 -->
 
-
-
 <html>
 
-
-
 <head>
-
 </head>
 
-
-
 <body>
-
 	<button onclick="games1()">games1</button>
-
 	<script>
-
 		function games1() {
-
 var win = window.open()
-
 var url = "https://kylebob.com/flash"
-
 var iframe = win.document.createElement('iframe')
-
 iframe.style.width = "100%";
-
 iframe.style.height = "100%";
-
 iframe.style.border = "none";
-
 iframe.src = url
-
 win.document.body.appendChild(iframe)
-
 }
-
 	</script>
-
 </body>
-
-
 
 </html> 
 
-
-
 <!-- GAME SITE 2 -->
-
-
 
 <html>
 
-
-
 <head>
-
 </head>
 
-
-
 <body>
-
 	<button onclick="games2()">games2</button>
-
 	<script>
-
 		function games2() {
-
 var win = window.open()
-
 var url = "https://gam-er.weebly.com"
-
 var iframe = win.document.createElement('iframe')
-
 iframe.style.width = "100%";
-
 iframe.style.height = "100%";
-
 iframe.style.border = "none";
-
 iframe.src = url
-
 win.document.body.appendChild(iframe)
-
 }
-
 	</script>
-
 </body>
 
-
-
 </html>
-
-
 
 <!-- SLOPE -->
 
-
-
 <html>
 
-
-
 <head>
-
 </head>
 
-
-
 <body>
-
 	<button onclick="slope()">slope</button>
-
 	<script>
-
 		function slope() {
-
 var win = window.open()
-
 var url = "https://slope.jonathanbangert.com/"
-
 var iframe = win.document.createElement('iframe')
-
 iframe.style.width = "100%";
-
 iframe.style.height = "100%";
-
 iframe.style.border = "none";
-
 iframe.src = url
-
 win.document.body.appendChild(iframe)
-
 }
-
 	</script>
-
 </body>
 
-
-
 </html>
-
-
 
 <!-- DRIFT HUNTERS -->
 
-
-
 <html>
 
-
-
 <head>
-
 </head>
 
-
-
 <body>
-
 	<button onclick="drift()">drift hunters</button>
-
 	<script>
-
 		function drift() {
-
 var win = window.open()
-
 var url = "https://todikgames.s3.eu-north-1.amazonaws.com/games/drift-hunters/index.html"
-
 var iframe = win.document.createElement('iframe')
-
 iframe.style.width = "100%";
-
 iframe.style.height = "100%";
-
 iframe.style.border = "none";
-
 iframe.src = url
-
 win.document.body.appendChild(iframe)
-
 }
-
 	</script>
-
 </body>
-
-
 
 </html>
 
 
+	<!-- CSS -->
+
+  <!-- CSS BACKGROUND -->
+
+<style>
+	body {
+		background-color: #2E3440;
+	}
+  
+	<!-- CSS FOREGROUND -->
+
+<style>
+	body {
+		color: blue;
+	}
+
+	strong {
+		color: #d8dee9;
+	}
