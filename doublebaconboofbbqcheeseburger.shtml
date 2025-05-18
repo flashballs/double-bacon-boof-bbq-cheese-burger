@@ -1,7 +1,7 @@
 
 
 <p> <strong> WELCOME TO DOUBLE BACON BOOF BBQ CHEESE BURGER GAMES<strong></p>
-	<p><small> version 1.2 beta 5/17/25 <small><p>
+	<p><small> version 1.1 beta 5/17/25 <small><p>
 
 
 
@@ -95,31 +95,6 @@ win.document.body.appendChild(iframe)
 		function drift() {
 var win = window.open()
 var url = "https://todikgames.s3.eu-north-1.amazonaws.com/games/drift-hunters/index.html"
-var iframe = win.document.createElement('iframe')
-iframe.style.width = "100%";
-iframe.style.height = "100%";
-iframe.style.border = "none";
-iframe.src = url
-win.document.body.appendChild(iframe)
-}
-	</script>
-</body>
-
-</html>
-
-<!-- EAGLERCRAFT 1.8 -->
-
-<html>
-
-<head>
-</head>
-
-<body>
-	<button onclick="1.8()">eagler craft 1.8</button>
-	<script>
-		function 1.8() {
-var win = window.open()
-var url = "https://gitlab.com/my-math-homework/games/eaglercraft-1.8/-/raw/main/1.8.html?ref_type=heads&inline=false"
 var iframe = win.document.createElement('iframe')
 iframe.style.width = "100%";
 iframe.style.height = "100%";
