@@ -117,7 +117,7 @@ win.document.body.appendChild(iframe)
 <body>
 	<button onclick="1.8()">eagler craft 1.8</button>
 	<script>
-		function drift() {
+		function 1.8() {
 var win = window.open()
 var url = "https://gitlab.com/my-math-homework/games/eaglercraft-1.8/-/raw/main/1.8.html?ref_type=heads&inline=false"
 var iframe = win.document.createElement('iframe')
