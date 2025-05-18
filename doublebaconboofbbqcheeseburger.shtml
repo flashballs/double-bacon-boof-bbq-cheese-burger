@@ -107,6 +107,31 @@ win.document.body.appendChild(iframe)
 
 </html>
 
+<!-- EAGLERCRAFT 1.8 -->
+
+<html>
+
+<head>
+</head>
+
+<body>
+	<button onclick="1.8()">eagler craft 1.8</button>
+	<script>
+		function drift() {
+var win = window.open()
+var url = "https://gitlab.com/my-math-homework/games/eaglercraft-1.8/-/raw/main/1.8.html?ref_type=heads&inline=false"
+var iframe = win.document.createElement('iframe')
+iframe.style.width = "100%";
+iframe.style.height = "100%";
+iframe.style.border = "none";
+iframe.src = url
+win.document.body.appendChild(iframe)
+}
+	</script>
+</body>
+
+</html>
+
 
 	<!-- CSS -->
 
