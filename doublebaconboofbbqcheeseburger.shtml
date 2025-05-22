@@ -144,32 +144,7 @@ win.document.body.appendChild(iframe)
 	<script>
 		function body() {
 var win = window.open()
-var url = "https://<!-- MARIO -->
-
-<html>
-
-<head>
-</head>
-
-<body>
-	<button onclick="mario()">mario</button>
-	<script>
-		function mario() {
-var win = window.open()
-var url = "https://mario.netlify.app"
-var iframe = win.document.createElement('iframe')
-iframe.style.width = "100%";
-iframe.style.height = "100%";
-iframe.style.border = "none";
-iframe.src = url
-win.document.body.appendChild(iframe)
-}
-	</script>
-</body>
-
-</html>
-
-"
+var url = "https://bodyvisualizer.is.tue.mpg.de"
 var iframe = win.document.createElement('iframe')
 iframe.style.width = "100%";
 iframe.style.height = "100%";
