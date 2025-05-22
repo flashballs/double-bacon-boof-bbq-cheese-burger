@@ -132,6 +132,7 @@ win.document.body.appendChild(iframe)
 
 </html>
 
+
 <!-- BODY BUILDER -->
 
 <html>
@@ -140,11 +141,11 @@ win.document.body.appendChild(iframe)
 </head>
 
 <body>
-	<button onclick="body()">body builder</button>
+	<button onclick="bodyb()">body builder</button>
 	<script>
-		function body() {
+		function bodyb() {
 var win = window.open()
-var url = "https://bodyvisualizer.is.tue.mpg.de"
+var url = "http://bodyvisualizer.is.tue.mpg.de/"
 var iframe = win.document.createElement('iframe')
 iframe.style.width = "100%";
 iframe.style.height = "100%";
@@ -156,6 +157,8 @@ win.document.body.appendChild(iframe)
 </body>
 
 </html>
+
+
 
 
 
